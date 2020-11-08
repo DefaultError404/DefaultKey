@@ -1,0 +1,1 @@
+aca estan todos los datos de configuracion como correo y contraseña encriptados para no poder verlos

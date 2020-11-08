@@ -4,7 +4,7 @@ Este es un KeyLogger basico creado en el lenguaje de programacion python, aun fa
 
 Solo soy un aprendiz de este lenguaje de programacion y si puedes ayudarme a mejorar o corregir cosas de este programa te lo agradeceria enormemente, para reportar bugs o errores comunicate al correo **defaultexe509@gmail.com**.
 
-###Instalacion:
+# Instalacion:
 
 Se debe instalar el archivo **requirements.txt** con el comando **pip install -r requirements.txt** y ejecutar el archivo main.py, en este se debe configurar el correo y un mensaje opcional al iniciar la PC que tenga el KeyLogger y listo.
 
